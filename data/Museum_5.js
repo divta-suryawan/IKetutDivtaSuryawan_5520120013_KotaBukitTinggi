@@ -1,0 +1,1 @@
+var json_Museum_5 = {"type":"FeatureCollection","name":"Museum_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Museum":"MUseum Perjuangan Tri Daya Eka Darma"},"geometry":{"type":"Point","coordinates":[100.366170763598532,-0.307171549880535]}}]}
